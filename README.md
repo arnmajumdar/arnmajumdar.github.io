@@ -1,2 +1,2 @@
-# Thannozzz.github.io
+# Arnab Majumdar
 My personal website
