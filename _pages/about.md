@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Arnab Mjumdar's personal website"
+title: "Arnab Majumdar's personal website"
 author_profile: true
 redirect_from: 
   - /about/
