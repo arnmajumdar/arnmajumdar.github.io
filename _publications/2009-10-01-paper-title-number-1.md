@@ -3,7 +3,7 @@ title: "Computation of X-ray and Neutron Scattering Patterns to Benchmark Atomis
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the finite size effect'
+excerpt: 'Keywords: neutron scattering; X-ray scattering; quasielastic neutron scattering; wide-angle diffraction; small-angle scattering; molecular dynamics simulation; finite-size effect; Sassena'
 date: 2024-01-26
 venue: 'International Journal of Molecular Sciences'
 slidesurl: # 'https://academicpages.github.io/files/slides1.pdf'
