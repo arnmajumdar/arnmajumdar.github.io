@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD. in physics, CAU Kiel, 2018 (Requested title Dr.-Ing, Defence expected: 14.01.2026)
+* M.Sc. in Computer Aided Mechanical Engineering, RWTH Aachen, 2016 - 2019
+* B.Tech. in Mechanical Engineering, Nit Durgapur, 2009 - 2013
 
 Work experience
 ======
