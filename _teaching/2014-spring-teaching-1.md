@@ -8,7 +8,7 @@ date: 2022-05-01
 location: "Munich, Germany"
 ---
 
-The tutorial sessions of the course ’Multiscale Modelling’ were taught by me during the summer semester 2022.
+I taught the tutorial sessions of the course ’Multiscale Modelling’ during the summer semester 2022. The course was offered by Prof. Phaedon-Stelios Koutsourelakis from the department of Data-driven Materials Modeling in the Techinal University of Munich (TUM). 
 
 Topics
 ======
