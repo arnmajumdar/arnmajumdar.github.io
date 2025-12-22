@@ -3,7 +3,7 @@ title: "Calculation of neutron and X-Ray scattering data from Molecular Dynamics
 collection: talks
 type: "Talk"
 permalink: /talks/2021-MLZ-UM
-venue: "Munich, Germany"
+venue: "MLZ user meeting"
 date: 2021-12-07
 location: "Munich, Germany"
 ---

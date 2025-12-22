@@ -3,7 +3,7 @@ title: "Development of a workflow to calculate the X-ray and neutron diffraction
 collection: talks
 type: "Talk"
 permalink: /talks/2021-MLZ-UM
-venue: "Munich, Germany"
+venue: "MLZ user meeting"
 date: 2022-12-08
 location: "Munich, Germany"
 ---
