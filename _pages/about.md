@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Welcome!
+
 This page is under construction.
 
 Check following tabs:
