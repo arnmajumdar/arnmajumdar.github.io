@@ -3,7 +3,7 @@ title: "Comparison of molecular dynamics simulations of water with neutron and X
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: # 'This paper is about MD interatomic potentials'
+excerpt: 'This paper develops method for parameterization of atomic and molecular movement using neutron scattering data'
 date: 2022-11-07
 venue: 'EPJ Web Conf.'
 slidesurl: # 'https://academicpages.github.io/files/slides2.pdf'
