@@ -3,7 +3,7 @@ title: "Computation of X-ray and Neutron Scattering Patterns to Benchmark Atomis
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Keywords: neutron scattering; X-ray scattering; quasielastic neutron scattering; wide-angle diffraction; small-angle scattering; molecular dynamics simulation; finite-size effect; Sassena'
+excerpt: 'This paper demonstrates calculation of different scattering data from atomistic simulations using Sassena as a tool. Novel computational algorithms such as removal of finite size effect and OpenMP implementation were also introduced.'
 date: 2024-01-26
 venue: 'International Journal of Molecular Sciences'
 slidesurl: # 'https://academicpages.github.io/files/slides1.pdf'
