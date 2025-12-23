@@ -26,4 +26,4 @@ References:<br>
 [3] Mühlbauer et al., doi: j.nima.2016.06.105<br>
 [4] Large et al., doi: 10.1107/S1600576717011463<br>
 
-[Link to conference website](https://indico.frm2.tum.de/event/461/contributions/4964/)
+[Link to conference website](https://indico.frm2.tum.de/event/484/contributions/5124/)
