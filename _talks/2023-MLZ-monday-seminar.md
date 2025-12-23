@@ -8,7 +8,7 @@ date: 2023-07-03
 location: "Munich, Germany"
 ---
 
-Topic: Development of methods to analyze in situ Small Angle Neutron Scattering (SANS) sata using computer simulation.
+Topic: Development of methods to analyze in situ Small Angle Neutron Scattering (SANS) data using computer simulation.
 
 Authors
 ======
