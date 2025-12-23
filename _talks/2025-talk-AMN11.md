@@ -2,9 +2,9 @@
 title: "Nanometer-scale analysis of hydrogen storage in complex hydrides using small angle neutron scattering and simulations"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-talk-AMN11
+permalink: /talks/2025-talk-AMN11
 venue: "Neutrons for energy"
-date: 2024-02-12
+date: 2025-02-12
 location: "Christchurch, New Zealand"
 ---
 
