@@ -2,7 +2,7 @@
 title: "Investigation of a hydrogen storage process using in situ SANS measurements and simulations"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-talk-MLZ-neutron-for-energy
+permalink: /talks/2024-talk-MLZ-neutron-for-energy
 venue: "Neutrons for energy"
 date: 2024-06-06
 location: "Munich, Germany"
