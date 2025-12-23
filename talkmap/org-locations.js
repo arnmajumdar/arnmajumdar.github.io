@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Small Angle Neutron Scattering data driven simulation of chemical diffusion of hydrogen in metal hydrides<br />MLZ user meeting; Munich, Germany",
+    48.1371079,
+    11.5753822
+  ],
+  [
     "Validation of continuum simulations of materials at the mesoscopic level with X-ray and neutron diffraction with a focus on hydrogen storage materials<br />Deutsche Physikalische Gesellschaft (DPG); Dresden, Germany",
     51.0493286,
     13.7381437
