@@ -25,14 +25,14 @@ var addressPoints = [
     11.5753822
   ],
   [
-    "Simulation at molecular and mesoscopic level and its validation through X-ray and neutron scattering<br />Gesellschaft f\u00fcr Angewandete Mathematik und Mechanik e.V. (GAMM); Dresden, Germany",
-    51.0493286,
-    13.7381437
-  ],
-  [
     "Nanometer-scale analysis of hydrogen storage in complex hydrides using small angle neutron scattering and simulations<br />Neutrons for energy; Christchurch, New Zealand",
     -43.530955,
     172.6364343
+  ],
+  [
+    "Simulation at molecular and mesoscopic level and its validation through X-ray and neutron scattering<br />Gesellschaft f\u00fcr Angewandete Mathematik und Mechanik e.V. (GAMM); Dresden, Germany",
+    51.0493286,
+    13.7381437
   ],
   [
     "Development of a workflow to calculate the X-ray and neutron diffraction pattern from continuum simulations of macroscopic structures<br />MLZ user meeting; Munich, Germany",
