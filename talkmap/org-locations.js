@@ -15,8 +15,18 @@ var addressPoints = [
     11.5753822
   ],
   [
+    "Evaluating scattering data of the micro and nano scale by computer simulations with a focus on hydrogen storage materials<br />Neutrons for science and industry; Munich, Germany",
+    48.1371079,
+    11.5753822
+  ],
+  [
     "Calculation of neutron and X-Ray scattering data from Molecular Dynamics simulations through optimal use of computation resources<br />MLZ user meeting; Munich, Germany",
     48.1371079,
     11.5753822
+  ],
+  [
+    "Sassena -- a tool for validation of Molecular Dynamics simulations with neutron and X-Ray scattering experiments<br />5th internal biannual science meeting of the MLZ; Grainau, Germany",
+    47.4753212,
+    11.0259498
   ]
 ];
