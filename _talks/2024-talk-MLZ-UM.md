@@ -3,7 +3,7 @@ title: "Novel method for studying hydrogen storage process in the nanometer leng
 collection: talks
 type: "Talk"
 permalink: /talks/2024-talk-MLZ-UM
-venue: "Neutrons for energy"
+venue: "MLZ user meeting"
 date: 2024-12-05
 location: "Munich, Germany"
 ---
