@@ -2,7 +2,7 @@
 title: "Evaluating scattering data of the micro and nano scale by computer simulations with a focus on hydrogen storage materials"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-MLZ-monday-seminar
+permalink: /talks/2023-talk-MLZ-monday-seminar
 venue: "Neutrons for science and industry"
 date: 2023-07-03
 location: "Munich, Germany"

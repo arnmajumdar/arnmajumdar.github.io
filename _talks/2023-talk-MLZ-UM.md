@@ -2,7 +2,7 @@
 title: "Small Angle Neutron Scattering data driven simulation of chemical diffusion of hydrogen in metal hydrides"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-MLZ-UM
+permalink: /talks/2023-talk-MLZ-UM
 venue: "MLZ user meeting"
 date: 2023-12-04
 location: "Munich, Germany"
