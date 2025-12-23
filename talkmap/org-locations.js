@@ -20,6 +20,11 @@ var addressPoints = [
     11.5753822
   ],
   [
+    "Novel method for studying hydrogen storage process in the nanometer length scale using count rate of neutrons scattered at a small angle and probabilistic structure generation<br />Neutrons for energy; Munich, Germany",
+    48.1371079,
+    11.5753822
+  ],
+  [
     "Simulation at molecular and mesoscopic level and its validation through X-ray and neutron scattering<br />Gesellschaft f\u00fcr Angewandete Mathematik und Mechanik e.V. (GAMM); Dresden, Germany",
     51.0493286,
     13.7381437
