@@ -2,6 +2,12 @@ source 'https://rubygems.org'
 
 gem "github-pages", group: :jekyll_plugins
 
+########################################################
+# below configs were downloaded as 
+# intial framework from github
+# They were causing version mismatch while remote build
+########################################################
+
 # group :jekyll_plugins do
 #   gem 'jekyll'
 #   gem 'jekyll-feed'
