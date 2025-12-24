@@ -25,7 +25,7 @@ var addressPoints = [
     11.5753822
   ],
   [
-    "Nanometer-scale analysis of hydrogen storage in complex hydrides using small angle neutron scattering and simulations<br />Neutrons for energy; Christchurch, New Zealand",
+    "Nanometer-scale analysis of hydrogen storage in complex hydrides using small angle neutron scattering and simulations<br />11th International Conference on Advanced Materials and Nanotechnology (AMN11); Christchurch, New Zealand",
     -43.530955,
     172.6364343
   ],
@@ -43,6 +43,11 @@ var addressPoints = [
     "Validation of continuum simulations of materials at the mesoscopic level with X-ray and neutron diffraction with a focus on hydrogen storage materials<br />Deutsche Physikalische Gesellschaft (DPG); Dresden, Germany",
     51.0493286,
     13.7381437
+  ],
+  [
+    "Continuum simulation of hydrogen storage with complex hydride at nanometer length scale using Small Angle Neutron Scattering (SANS) measurements to estimate volumetry measurement at engineering length scale<br />1st Conference on Hydrogen in Materials Science and Engineering; Online",
+    43.5904719,
+    3.8595132
   ],
   [
     "Calculation of neutron and X-Ray scattering data from Molecular Dynamics simulations through optimal use of computation resources<br />MLZ user meeting; Munich, Germany",
