@@ -3,7 +3,7 @@ title: "Nanometer-scale analysis of hydrogen storage in complex hydrides using s
 collection: talks
 type: "Talk"
 permalink: /talks/2025-talk-AMN11
-venue: "Neutrons for energy"
+venue: "11th International Conference on Advanced Materials and Nanotechnology (AMN11)"
 date: 2025-02-12
 location: "Christchurch, New Zealand"
 ---
