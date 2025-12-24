@@ -15,6 +15,11 @@ var addressPoints = [
     11.0259498
   ],
   [
+    "Nanoscopic Bubble Formation during Hydrogen Desorption: Insight from Simulations and Neutron Scattering at the Nanometer Scale and its Impact on Hydrogen Storage Performance<br />Deutsche Physikalische Gesellschaft (DPG); Regensburg, Germany",
+    49.0195333,
+    12.0974869
+  ],
+  [
     "Small Angle Neutron Scattering data driven simulation of chemical diffusion of hydrogen in metal hydrides<br />MLZ user meeting; Munich, Germany",
     48.1371079,
     11.5753822
