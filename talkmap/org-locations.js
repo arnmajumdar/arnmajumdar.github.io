@@ -93,5 +93,10 @@ var addressPoints = [
     "Sassena - tool for computation of scattering pattern from MD simulation<br />Machine Learning Interatomic Potentials: Theory and Practice; Helsinki, Finland",
     60.1666204,
     24.9435408
+  ],
+  [
+    "Hybrid High Performance Computing to Convert Molecular Dynamics Simulations to Neutron and X-ray Data<br />SNI; Berlin, Germany",
+    52.5173885,
+    13.3951309
   ]
 ];
