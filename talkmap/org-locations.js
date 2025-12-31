@@ -20,6 +20,11 @@ var addressPoints = [
     12.0974869
   ],
   [
+    "An ontology for Photon and Neutron Experimental Techniques (PaNET)<br />International Conference on Neutron Scattering (ICNS); Copenhagen, Denmark",
+    55.6867243,
+    12.5700724
+  ],
+  [
     "Small Angle Neutron Scattering data driven simulation of chemical diffusion of hydrogen in metal hydrides<br />MLZ user meeting; Munich, Germany",
     48.1371079,
     11.5753822
@@ -28,6 +33,11 @@ var addressPoints = [
     "Novel method for studying hydrogen storage process in the nanometer length scale using count rate of neutrons scattered at a small angle and probabilistic structure generation<br />MLZ user meeting; Munich, Germany",
     48.1371079,
     11.5753822
+  ],
+  [
+    "Nanoscopic bubble formation during desorption from hydrogen storage material: Insights from Small Angle Neutron Scattering and computer simulations<br />International Conference on Neutron Scattering (ICNS); Copenhagen, Denmark",
+    55.6867243,
+    12.5700724
   ],
   [
     "Nanometer-scale analysis of hydrogen storage in complex hydrides using small angle neutron scattering and simulations<br />11th International Conference on Advanced Materials and Nanotechnology (AMN11); Christchurch, New Zealand",
