@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2022-poster-DPG
 venue: "Deutsche Physikalische Gesellschaft (DPG)"
-date: 2021-05-15
+date: 2021-09-15
 location: "online"
 excerpt: "Topic: Implementation of parallel computing in Sassena"
 ---
