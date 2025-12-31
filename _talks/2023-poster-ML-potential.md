@@ -2,7 +2,7 @@
 title: "Sassena - tool for computation of scattering pattern from MD simulation"
 collection: talks
 type: "Poster"
-permalink: /talks/2025-poster-ML-potential
+permalink: /talks/2023-poster-ML-potential
 venue: "Machine Learning Interatomic Potentials: Theory and Practice"
 date: 2023-11-06
 location: "Helsinki, Finland"

@@ -2,7 +2,7 @@
 title: "Simulation at molecular and mesoscopic level and its validation through X-ray and neutron scattering"
 collection: talks
 type: "Poster"
-permalink: /talks/2025-poster-simplaix
+permalink: /talks/2023-poster-simplaix
 venue: "SIMPLAIX"
 date: 2023-04-15
 location: "Heidelberg, Germany"

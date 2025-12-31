@@ -2,7 +2,7 @@
 title: "Calculation of the detector signal in an in situ SANS measurement from the simulation of metal hydrides as hydrogen storage materials"
 collection: talks
 type: "Poster"
-permalink: /talks/2025-poster-MLZ-neutron-for-energy
+permalink: /talks/2024-poster-MLZ-neutron-for-energy
 venue: "MLZ conference: Neutrons for Energy Storage"
 date: 2024-06-05
 location: "Munich, Germany"

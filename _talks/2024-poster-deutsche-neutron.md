@@ -2,7 +2,7 @@
 title: "In situ simulation of a hydrogen storage material on the nanometer level driven by SANS measurements to explain the performance at engineering scale"
 collection: talks
 type: "Poster"
-permalink: /talks/2025-poster-deutsche-neutron
+permalink: /talks/2024-poster-deutsche-neutron
 venue: "Deutsche Neutronstreutagung 2024"
 date: 2024-09-17
 location: "Aachen, Germany"
