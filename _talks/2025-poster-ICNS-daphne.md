@@ -2,7 +2,7 @@
 title: "An ontology for Photon and Neutron Experimental Techniques (PaNET)"
 collection: talks
 type: "Poster"
-permalink: /talks/2025-poster-ICNS
+permalink: /talks/2025-poster-ICNS-daphne
 venue: "International Conference on Neutron Scattering (ICNS)"
 date: 2025-07-10
 location: "Copenhagen, Denmark"
@@ -21,6 +21,6 @@ In Germany alone, approximately 5500 scientists generate 28 petabytes of data ea
 References:<br>
 [1] Amelung et al., doi: 10.5281/zenodo.8040606<br>
 [2] Collins et al., doi: 10.5281/zenodo.4806026<br>
-[3] URL: https://expands-eu.github.io/ExPaNDS-experimental-techniques-ontology/webvowl/index.html<br>
+[3] GitHub url: https://expands-eu.github.io/ExPaNDS-experimental-techniques-ontology/webvowl/index.html<br>
 
 [Link to conference website](https://discongress.eventsair.com/icns-2025)
