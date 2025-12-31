@@ -85,9 +85,14 @@ var addressPoints = [
     3.8595132
   ],
   [
-    "Calculation of neutron and X-Ray scattering data from Molecular Dynamics simulations through optimal use of computation resources<br />MLZ user meeting; Munich, Germany",
-    48.1371079,
-    11.5753822
+    "Hybrid High Performance Computing to Convert Molecular Dynamics Simulations to Neutron and X-ray Data<br />SNI; online",
+    43.5904719,
+    3.8595132
+  ],
+  [
+    "Calculation of neutron and X-Ray scattering data from Molecular Dynamics simulations through optimal use of computation resources<br />MLZ user meeting; online",
+    43.5904719,
+    3.8595132
   ],
   [
     "Sassena - tool for computation of scattering pattern from MD simulation<br />Machine Learning Interatomic Potentials: Theory and Practice; Helsinki, Finland",
