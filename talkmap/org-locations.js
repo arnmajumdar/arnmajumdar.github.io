@@ -15,6 +15,11 @@ var addressPoints = [
     11.0259498
   ],
   [
+    "An ontology for Photon and Neutron Experimental Techniques (PaNET)<br />DAPHNE4NFDI Annual Meeting 2025; Berlin, Germany",
+    52.5173885,
+    13.3951309
+  ],
+  [
     "Nanoscopic Bubble Formation during Hydrogen Desorption: Insight from Simulations and Neutron Scattering at the Nanometer Scale and its Impact on Hydrogen Storage Performance<br />Deutsche Physikalische Gesellschaft (DPG); Regensburg, Germany",
     49.0195333,
     12.0974869
