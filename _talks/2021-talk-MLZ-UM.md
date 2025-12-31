@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2021-talk-MLZ-UM
 venue: "MLZ user meeting"
 date: 2021-12-07
-location: "Munich, Germany"
+location: "online"
 excerpt: "Topic: Sassena as software solution for calculating scattering patterns numerically."
 ---
 
