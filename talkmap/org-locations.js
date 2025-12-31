@@ -25,6 +25,11 @@ var addressPoints = [
     13.3951309
   ],
   [
+    "Simulation at molecular and mesoscopic level and its validation through X-ray and neutron scattering<br />SIMPLAIX; Heidelberg, Germany",
+    49.4093582,
+    8.694724
+  ],
+  [
     "Nanoscopic Bubble Formation during Hydrogen Desorption: Insight from Simulations and Neutron Scattering at the Nanometer Scale and its Impact on Hydrogen Storage Performance<br />Deutsche Physikalische Gesellschaft (DPG); Regensburg, Germany",
     49.0195333,
     12.0974869
