@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a computational material scientist. I have gained diverse experience in different fields during diffferent stages of my life. In this page, a brief description of these stages is included. To know more, please also visit respective tabs.
+I am a computational material scientist, programmer, and mechanical engineer. I have gained diverse experience in different fields during diffferent stages of my life. In this page, a brief description of these stages is included. To know more, please also visit respective tabs.
 
 My life as a neutron scientist
 ======
