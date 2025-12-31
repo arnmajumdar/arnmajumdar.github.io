@@ -2,10 +2,10 @@
 title: "Calculation of the detector signal in an in situ SANS measurement from the simulation of metal hydrides as hydrogen storage materials"
 collection: talks
 type: "Poster"
-permalink: /talks/2025-poster-deutsche-neutron
-venue: "Deutsche Neutronstreutagung 2024"
+permalink: /talks/2025-poster-MLZ-neutron-for-energy
+venue: "MLZ conference: Neutrons for Energy Storage"
 date: 2024-06-05
-location: "Aachen, Germany"
+location: "Munich, Germany"
 ---
 
 Topic: Method for calculating neutron count rate from continuum simulations
