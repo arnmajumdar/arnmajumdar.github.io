@@ -70,9 +70,9 @@ var addressPoints = [
     13.7381437
   ],
   [
-    "Calculation of the detector signal in an in situ SANS measurement from the simulation of metal hydrides as hydrogen storage materials<br />Deutsche Neutronstreutagung 2024; Aachen, Germany",
-    50.776351,
-    6.083862
+    "Calculation of the detector signal in an in situ SANS measurement from the simulation of metal hydrides as hydrogen storage materials<br />MLZ conference: Neutrons for Energy Storage; Munich, Germany",
+    48.1371079,
+    11.5753822
   ],
   [
     "Continuum simulation of hydrogen storage with complex hydride at nanometer length scale using Small Angle Neutron Scattering (SANS) measurements to estimate volumetry measurement at engineering length scale<br />1st Conference on Hydrogen in Materials Science and Engineering; Online",
@@ -83,5 +83,10 @@ var addressPoints = [
     "Calculation of neutron and X-Ray scattering data from Molecular Dynamics simulations through optimal use of computation resources<br />MLZ user meeting; Munich, Germany",
     48.1371079,
     11.5753822
+  ],
+  [
+    "Sassena - tool for computation of scattering pattern from MD simulation<br />Machine Learning Interatomic Potentials: Theory and Practice; Helsinki, Finland",
+    60.1666204,
+    24.9435408
   ]
 ];
