@@ -2,9 +2,9 @@
 title: "Hybrid High Performance Computing to Convert Molecular Dynamics Simulations to Neutron and X-ray Data"
 collection: talks
 type: "Poster"
-permalink: /talks/2022-poster-SNI
-venue: "SNI"
-date: 2022-09-05
+permalink: /talks/2022-poster-DPG
+venue: "Deutsche Physikalische Gesellschaft (DPG)"
+date: 2021-05-15
 location: "online"
 excerpt: "Topic: Implementation of parallel computing in Sassena"
 ---
