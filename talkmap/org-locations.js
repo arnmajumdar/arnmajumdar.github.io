@@ -5,6 +5,11 @@ var addressPoints = [
     11.5753822
   ],
   [
+    "In situ simulation of a hydrogen storage material on the nanometer level driven by SANS measurements to explain the performance at engineering scale<br />Deutsche Neutronstreutagung 2024; Aachen, Germany",
+    50.776351,
+    6.083862
+  ],
+  [
     "Investigation of a hydrogen storage process using in situ SANS measurements and simulations<br />Neutrons for energy; Munich, Germany",
     48.1371079,
     11.5753822
@@ -63,6 +68,11 @@ var addressPoints = [
     "Validation of continuum simulations of materials at the mesoscopic level with X-ray and neutron diffraction with a focus on hydrogen storage materials<br />Deutsche Physikalische Gesellschaft (DPG); Dresden, Germany",
     51.0493286,
     13.7381437
+  ],
+  [
+    "Calculation of the detector signal in an in situ SANS measurement from the simulation of metal hydrides as hydrogen storage materials<br />Deutsche Neutronstreutagung 2024; Aachen, Germany",
+    50.776351,
+    6.083862
   ],
   [
     "Continuum simulation of hydrogen storage with complex hydride at nanometer length scale using Small Angle Neutron Scattering (SANS) measurements to estimate volumetry measurement at engineering length scale<br />1st Conference on Hydrogen in Materials Science and Engineering; Online",
