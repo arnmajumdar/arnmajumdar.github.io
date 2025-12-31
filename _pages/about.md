@@ -1,15 +1,47 @@
 ---
 permalink: /
-title: "Arnab Majumdar's personal website"
+title: "Home page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome!
+Welcome to my website!
 
-This page is under construction.
+I am a computational material scientist. I have gained diverse experience in different fields during diffferent stages of my life. In this page, a brief description of these stages is included. To know more, please also visit respective tabs.
+
+My life as a neutron scientist
+======
+<a href="https://www.youtube.com/watch?v=V_V_PK-W1F8" target="_blank">
+  <img
+    src="https://img.youtube.com/vi/V_V_PK-W1F8/hqdefault.jpg"
+    alt="Neutrons and hydrogen storage"
+    style="float:right; margin:0 0 10px 15px; width:200px;">
+</a>
+<p>
+My life as a neutron scientist started as I joined MLZ as a PhD candidate. My research focused on the use of different neutron scattering techniques to characterize hydrogen storage in complex metal hydrides. In particular, I was interested in Small-Angle Neutron Scattering (SANS), which probes material structures at nanometer length scales. I developed several simulation methods to analyze storage phenomena at these very small length scales and to characterize their impact on storage performance, with particular relevance for engineering applications. To know more about my research experience with neutrons please check the video link on the left. This video was mainly shoot to motivate young scientists to take up neutron science as their carrer.
+</p>
+
+The simulation methods developed during my PhD had to be implemented using software programs. Therefore, I had to develop several research software, such as Sassena and Cont2Sas, during my PhD. This experience gave me exposure to different programming lanuages such as c++, python, and shell scripting. Furthermore, I had the chance to hone my software development skills in parallel computing, git, CI/CD etc. 
+
+Currently, I am working in another project related to development of data infrastructure in neutron and photon facilities funded by DAPHNE. In this project also, I have to apply my software development skills. Furthermore, this project requires me to communicate with other instrument scientists and development team, which showcases my interpersonal skills
+
+
+My life as a simulation engineer 
+======
+
+Before I delved into the world of neutron science, I completed my MSc. in RWTH, Aachen. My MSc. studies was focused on different simulation methods, spanning from classical MD simulation for simulating atoms to continuum and CFD simulations for simulating engineering systems. During my time in Aachen, I also engaged in different student jobs, which gave me the exposure of applying theoretical knowledge to practical applications. My exposure to different simulation theories and practices in Aachen played a crucial part during my PhD journey.
+
+My life as a mechanical engineer 
+======
+
+Before my MSc. studies, I also worked in the industry for 3 years. After finishing my bachelor studies in mechanical engineering, I was hired by Daimler India as a vehicle testing engineer. I worked in Daimler for 3 years as a manager, during which I had to conduct testing of heavy duty trucks before market release. My responsibilities included supervision of workshop technicians and drivers, and communication with design team. As a part of this job, I also had the opportunity to conduct overseas testing in Germany, which demonstrates my experience in handling international projects.
+
+
+<!-- I started as an mechanical engineer in bachelors. After bachelors, I worked in the indutry for  
+
+My speciality is bridging natural science and engineering. -->
 
 Check following tabs:
 
@@ -18,17 +50,17 @@ Check following tabs:
 * Teaching
 * CV
 
-<!-- [![Video title](/images/Arnab-frm2-video.png)](https://www.youtube.com/watch?v=V_V_PK-W1F8) -->
 
 Videos
 ======
 
 Click the link below:
 
-<a href="https://www.youtube.com/watch?v=V_V_PK-W1F8">
-  <img src="/images/youtube.png"
-       alt="Video title"
-       width="200">
+<a href="https://www.youtube.com/watch?v=V_V_PK-W1F8" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/V_V_PK-W1F8/hqdefault.jpg"
+    alt="Video title"
+    width="200">
 </a>
 
 <!-- 
