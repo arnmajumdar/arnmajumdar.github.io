@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Welcome to my personal website"
+title                    : "Home page"
 title_separator          : "-"
 name                     : &name "Arnab Majumdar"
 description              : &description "Arnab Majumdar's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
