@@ -39,30 +39,6 @@ My life as a mechanical engineer
 Before my MSc. studies, I also worked in the industry for 3 years. After finishing my bachelor studies in mechanical engineering, I was hired by Daimler India as a vehicle testing engineer. I worked in Daimler for 3 years as a manager, during which I had to conduct testing of heavy duty trucks before market release. My responsibilities included supervision of workshop technicians and drivers, and communication with design team. As a part of this job, I also had the opportunity to conduct overseas testing in Germany, which demonstrates my experience in handling international projects.
 
 
-<!-- I started as an mechanical engineer in bachelors. After bachelors, I worked in the indutry for  
-
-My speciality is bridging natural science and engineering. -->
-
-Check following tabs:
-
-* Publications
-* Talks
-* Teaching
-* CV
-
-
-Videos
-======
-
-Click the link below:
-
-<a href="https://www.youtube.com/watch?v=V_V_PK-W1F8" target="_blank">
-  <img 
-    src="https://img.youtube.com/vi/V_V_PK-W1F8/hqdefault.jpg"
-    alt="Video title"
-    width="200">
-</a>
-
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
