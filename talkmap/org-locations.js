@@ -75,6 +75,11 @@ var addressPoints = [
     13.7381437
   ],
   [
+    "Hybrid High Performance Computing to convert the Molecular Dynamics simulation to neutron and X-ray data<br />QENS/WINS; online",
+    43.5904719,
+    3.8595132
+  ],
+  [
     "Calculation of the detector signal in an in situ SANS measurement from the simulation of metal hydrides as hydrogen storage materials<br />MLZ conference: Neutrons for Energy Storage; Munich, Germany",
     48.1371079,
     11.5753822
@@ -85,7 +90,7 @@ var addressPoints = [
     3.8595132
   ],
   [
-    "Hybrid High Performance Computing to Convert Molecular Dynamics Simulations to Neutron and X-ray Data<br />SNI; online",
+    "Hybrid High Performance Computing to Convert Molecular Dynamics Simulations to Neutron and X-ray Data<br />Deutsche Physikalische Gesellschaft (DPG); online",
     43.5904719,
     3.8595132
   ],
