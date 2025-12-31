@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2025-poster-deutsche-neutron
 venue: "Deutsche Neutronstreutagung 2024"
-date: 2025-09-17
+date: 2024-09-17
 location: "Aachen, Germany"
 ---
 
