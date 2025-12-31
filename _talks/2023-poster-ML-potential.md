@@ -8,7 +8,7 @@ date: 2023-11-06
 location: "Helsinki, Finland"
 ---
 
-Topic: Demonsttration of Sassena as a tool to calculate scattering patterns from MD simulations
+Topic: Demonstration of Sassena as a tool to calculate scattering patterns from MD simulations
 
 Authors
 ======
