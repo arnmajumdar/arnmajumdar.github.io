@@ -6,6 +6,7 @@ permalink: /talks/2023-talk-GAMM
 venue: "Gesellschaft für Angewandete Mathematik und Mechanik e.V. (GAMM)"
 date: 2023-05-30
 location: "Dresden, Germany"
+excerpt: "Topic: Benchmarking atomistic and continuum simulations against neutron and X-ray scattering data."
 ---
 
 Topic: Benchmarking atomistic and continuum simulations against neutron and X-ray scattering data.

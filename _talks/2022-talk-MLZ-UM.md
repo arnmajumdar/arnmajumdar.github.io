@@ -6,6 +6,7 @@ permalink: /talks/2021-talk-MLZ-UM
 venue: "MLZ user meeting"
 date: 2022-12-08
 location: "Munich, Germany"
+excerpt: "Topic: Numerical method of calculating scattering patterns from continuum simulations."
 ---
 
 Topic: Numerical method of calculating scattering patterns from continuum simulations.

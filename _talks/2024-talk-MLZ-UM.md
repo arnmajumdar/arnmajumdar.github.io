@@ -6,6 +6,7 @@ permalink: /talks/2024-talk-MLZ-UM
 venue: "MLZ user meeting"
 date: 2024-12-05
 location: "Munich, Germany"
+excerpt: "Topic: Novel method developed for studying powder based materials"
 ---
 
 Topic: Novel method developed for studying powder based materials

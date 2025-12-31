@@ -6,6 +6,7 @@ permalink: /talks/2023-talk-DPG
 venue: "Deutsche Physikalische Gesellschaft (DPG)"
 date: 2023-03-29
 location: "Dresden, Germany"
+excerpt: "Topic: Numerical method of calculating scattering patterns from continuum simulations."
 ---
 
 Topic: Numerical method of calculating scattering patterns from continuum simulations.

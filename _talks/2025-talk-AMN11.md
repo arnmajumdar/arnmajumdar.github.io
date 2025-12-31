@@ -6,6 +6,7 @@ permalink: /talks/2025-talk-AMN11
 venue: "11th International Conference on Advanced Materials and Nanotechnology (AMN11)"
 date: 2025-02-12
 location: "Christchurch, New Zealand"
+excerpt: "Topic: Analysis of hydrogen diffusion in nanoscale and its imapact of storage performance in the engineering length scale."
 ---
 
 Topic: Analysis of hydrogen diffusion in nanoscale and its imapact of storage performance in the engineering length scale.

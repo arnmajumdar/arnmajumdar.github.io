@@ -6,6 +6,7 @@ permalink: /talks/2023-talk-MLZ-Grainau
 venue: "5th internal biannual science meeting of the MLZ"
 date: 2023-06-21
 location: "Grainau, Germany"
+excerpt: "Topic: Demonstration of computer simulation usage for analysis of neutron scattering data."
 ---
 
 Topic: Demonstration of computer simulation usage for analysis of neutron scattering data.

@@ -6,6 +6,7 @@ permalink: /talks/2024-talk-MLZ-neutron-for-energy
 venue: "Neutrons for energy"
 date: 2024-06-06
 location: "Munich, Germany"
+excerpt: "Topic: Nanoscopic bubble formation while unloading hydrogen from complex metal hydride."
 ---
 
 Topic: Nanoscopic bubble formation while unloading hydrogen from complex metal hydride.

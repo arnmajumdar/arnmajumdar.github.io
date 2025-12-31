@@ -6,6 +6,7 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "Technical University Munich, Mechanical Engineering"
 date: 2022-05-01
 location: "Munich, Germany"
+excerpt: "I taught the tutorial sessions of the course ’Multiscale Modelling’ during the summer semester 2022. The course was offered by Prof. Phaedon-Stelios Koutsourelakis from the department of Data-driven Materials Modeling in the Techinal University of Munich (TUM)."
 ---
 
 I taught the tutorial sessions of the course ’Multiscale Modelling’ during the summer semester 2022. The course was offered by Prof. Phaedon-Stelios Koutsourelakis from the department of Data-driven Materials Modeling in the Techinal University of Munich (TUM). 

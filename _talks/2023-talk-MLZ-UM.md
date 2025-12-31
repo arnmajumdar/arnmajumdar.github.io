@@ -6,6 +6,7 @@ permalink: /talks/2023-talk-MLZ-UM
 venue: "MLZ user meeting"
 date: 2023-12-04
 location: "Munich, Germany"
+excerpt: "Topic: Analysis of nanoscale hydrogen diffusion thorugh complementary use of in situ Small Angle Neutron Scattering (SANS) data and computer simulations."
 ---
 
 Topic: Analysis of nanoscale hydrogen diffusion thorugh complementary use of in situ Small Angle Neutron Scattering (SANS) data and computer simulations.
