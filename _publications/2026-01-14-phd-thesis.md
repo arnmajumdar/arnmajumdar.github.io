@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-01-14-phd-thesis
 excerpt: 'This is the my doctoral thesis. It reports nanoscopic bubble formation while unloading hydrogen from a amide based complex metal hydride. The system was investigated using simulation and in-situ SANS complementarily. To perform the complementary analysis, several methods were developed, which were vaildated using refernce system.'
-date: 2024-01-26
+date: 2026-01-14
 venue: 'CAU Kiel'
 paperurl: 'https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2026-00229-3' # 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: # 'https://academicpages.github.io/files/bibtex1.bib'
