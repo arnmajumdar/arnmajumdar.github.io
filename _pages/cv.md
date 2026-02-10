@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2020 -- 2025: PhD. in physics, CAU Kiel. (Requested title Dr.-Ing, Defence expected: 14.01.2026)
+* 2020 -- 2025: Doctorate in engineering, CAU Kiel. (Dr.-Ing.)
 * 2016 -- 2019: M.Sc. in Computer Aided Mechanical Engineering, RWTH Aachen.
 * 2009 -- 2013: B.Tech. in Mechanical Engineering, Nit Durgapur. 
 
