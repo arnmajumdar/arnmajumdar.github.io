@@ -2,9 +2,9 @@
 title: "Hybrid High Performance Computing to convert the Molecular Dynamics simulation to neutron and X-ray data"
 collection: talks
 type: "Poster"
-permalink: /talks/2022-poster-QENS-WINS
-venue: "QENS/WINS"
-date: 2021-05-17
+permalink: /talks/2020-poster-MLZ-UM
+venue: "MLZ user meeting"
+date: 2020-12-09
 location: "online"
 excerpt: "Topic: Implementation of parallel computing in Sassena"
 ---
