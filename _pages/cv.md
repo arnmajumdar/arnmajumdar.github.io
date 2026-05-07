@@ -70,6 +70,18 @@ Other research experience
   * Location: Aachen, Germany
   * Project: Material modelling of non-woven materials based on fibre undulations and reorientation
 
+Awards and achievements
+======
+* 2026: 2nd position - Poster prize at Daphne Annual Meeting 2026
+  * Awarding Institution: DAPHNE4NFDI
+  * Location: Karlsruhe Institute of Technology, Germany
+* 2023: 3rd position - Data challenge
+  * Awarding Institution: HIDA AI/ML workshop
+  * Location: Online
+* 2015: Achiever of the month (twice)
+  * Awarding Institution: Daimler India Commercial Vehicles Pvt. Ltd.
+  * Location: Chennai
+
 Software repositories
 ======
 * Sassena
