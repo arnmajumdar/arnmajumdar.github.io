@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2023-poster-ECNS
 venue: "European Conference on Neutron Scattering 2023"
-date: 2020-21-03
+date: 2020-03-21
 location: "Garching b. München"
 ---
 
