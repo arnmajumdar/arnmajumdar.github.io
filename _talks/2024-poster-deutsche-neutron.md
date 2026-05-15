@@ -8,7 +8,7 @@ date: 2024-09-17
 location: "Aachen, Germany"
 ---
 
-Topic: Ontology for Photon and Neutron Experimental Technique (PaNET).
+Topic: Nanoscopic bubble formation during hydrogen storage found through SANS data and simulation
 
 Authors
 ======
