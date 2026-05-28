@@ -1,5 +1,5 @@
 ---
-title: "Hybrid High Performance Computing to Convert Molecular Dynamics Simulations to Neutron and X-ray Data"
+title: "Calculation of neutron and X-ray scattering data from molecular dynamics simulations through optimal use of computation resources"
 collection: talks
 type: "Poster"
 permalink: /talks/2022-poster-SNI

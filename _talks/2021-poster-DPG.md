@@ -1,5 +1,5 @@
 ---
-title: "Hybrid High Performance Computing to Convert Molecular Dynamics Simulations to Neutron and X-ray Data"
+title: "Conversion of Molecular Dynamics (MD) simulations to Neutronand X-Ray Scattering Data using High Performance Computing"
 collection: talks
 type: "Poster"
 permalink: /talks/2022-poster-DPG
